@@ -1,3 +1,9 @@
+# Description
+  Some techniques for stock analysis
+
+#
+#
+
 # Technical_Analysis.js
   ## SMA - Simple Moving Average
   ## EMA - Expontional Moving Average
