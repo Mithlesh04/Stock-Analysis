@@ -891,4 +891,4 @@ console.log("macd = ",macd)
 console.log('sma = ',sma)
 console.log("EMA = ",ema)
 console.log("rsi = ",rsi)
-
+console.log("macd = ",macd)
