@@ -1,11 +1,11 @@
-## Technical_Analysis.js
-  # SMA - Simple Moving Average
-  # EMA - Expontional Moving Average
-  # RSI - Relative Strength Indicator
-  # MACD - Moving Average Convergence Divergence 
+# Technical_Analysis.js
+  ## SMA - Simple Moving Average
+  ## EMA - Expontional Moving Average
+  ## RSI - Relative Strength Indicator
+  ## MACD - Moving Average Convergence Divergence 
   
   
-## Snapeshot.js
+# Snapeshot.js
   # Market Cap
   # Price To Earnings
   # Price To Book
